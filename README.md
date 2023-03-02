@@ -1,7 +1,7 @@
 # MSPC-PowerShell-script
 This script is designed to help Microsoft Partner Network (MPN) administrators update the MPN ID in a bulk and automated way in the Microsoft Partner Center. Manually executing this task can be tedious and time-consuming, especially for large organizations with a large number of Azure/O365 subscriptions.
 
-With this script, you can automate this process and update the MPN ID in all your Azure/O365 subscriptions in just a few minutes. To use our script, you only need to provide your MPN ID and CSV file with information of the MSFT tenant and subcription. Once you have done that, you can run the script and automatically update the MPN ID in all your Azure/O365 subscriptions.
+With this script, you can automate this process and update the MPN ID in all your Azure/O365 subscriptions in just a few minutes. To use this script, you only need to provide the new MPN ID and CSV file with information of the MSFT tenant and subcription. Once you have done that, you can run the script and automatically update the MPN ID in all your Azure/O365 subscriptions.
 
 Some features of our script include:
 
